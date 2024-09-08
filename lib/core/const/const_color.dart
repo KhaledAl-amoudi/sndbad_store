@@ -2,5 +2,5 @@
 
 class ConstColor {
   static Color primaryColor=const Color(0xffff7b2e);
-  static Color productTitleColor=const Color(0xff68bec0);
+  static Color secondryColor=const Color(0xff008ECC);
 }
